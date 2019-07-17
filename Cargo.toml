@@ -1,0 +1,12 @@
+[package]
+name = "sysrepo-rust"
+version = "0.1.0"
+authors = ["Juraj Vijtiuk <juraj.vijtiuk@sartura.hr>"]
+edition = "2018"
+links = "sysrepo"
+build = "build.rs"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.49.2"
