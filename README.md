@@ -4,6 +4,6 @@ As in other Rust projects that use C libraries a wrapper "wrapper.h" file is use
 
 The example application is based on the Sysrepo sr_get_item example.
 
-#Installation
+# Installation
 Make sure that rustc and cargo are installed, then run cargo build. 
 Once the project has finished building it can be started with cargo run.
