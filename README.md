@@ -7,3 +7,5 @@ The example application is based on the Sysrepo sr_get_item example.
 # Installation
 Make sure that rustc and cargo are installed, then run cargo build. 
 Once the project has finished building it can be started with cargo run.
+
+An asciinema example is available at https://asciinema.org/a/260394.
